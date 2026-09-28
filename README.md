@@ -1,0 +1,1 @@
+CampusConnect is a full-stack student community web application built using React, Node.js, Express.js and MongoDB. It allows students to register, search student profiles, view projects and events, and manage student information.
